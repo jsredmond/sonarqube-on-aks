@@ -1,6 +1,6 @@
 # Create resource group
 resource "azurerm_resource_group" "sq_rg" {
-  name     = "sonarqube"
+  name     = "sq-aks"
   location = "East US"
 }
 
