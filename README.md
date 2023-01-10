@@ -9,8 +9,8 @@ This repository provides Terraform template files to setup and deploy SonarQube 
 
 ## Terraform versions
 
-For Terraform 0.13 or later use any version from `v3.38.0` of hashicorp/azurerm module or newer.
-For Terraform 0.13 or later use any version from `v2.8.0` of hashicorp/helm module or newer.
+* For Terraform 0.13 or later use any version from `v3.38.0` of hashicorp/azurerm module or newer.
+* For Terraform 0.13 or later use any version from `v2.8.0` of hashicorp/helm module or newer.
 
 ## Authors
 
